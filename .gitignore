@@ -1,0 +1,6 @@
+node_modules/
+client/dist/
+server-business/.env
+client/.env
+.DS_Store
+coverage/
